@@ -33,8 +33,7 @@ export function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
             <section className="space-y-3">
               <h3 className="text-xl font-semibold text-white border-b border-zinc-600 pb-2">About Me</h3>
               <p className="text-gray-300 leading-relaxed text-sm">
-                Write your personal bio here. Share your passion, interests, and what drives you as a professional. This
-                is your space to tell your story and connect with potential employers or clients.
+                My name is Barış Abbaszadə. Im a Junior Developer. I was born in May 23 2010.  
               </p>
             </section>
 
@@ -43,19 +42,17 @@ export function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
               <h3 className="text-xl font-semibold border-b border-zinc-600 pb-2 text-white">Experience</h3>
               <div className="space-y-4">
                 <div>
-                  <h4 className="font-semibold text-lg text-white">Senior Developer</h4>
-                  <p className="text-sm text-gray-400">Company Name • 2022 - Present</p>
+                  <h4 className="font-semibold text-lg text-white">Competitive Programmer</h4>
+                  <p className="text-sm text-gray-400">2023 • 2024 and 2024 • 2025 Finalist</p>
                   <p className="mt-2 text-gray-300 leading-relaxed">
-                    Led development of multiple web applications using React, Next.js, and TypeScript. Improved
-                    performance by 40% and mentored junior developers.
+                    
                   </p>
                 </div>
                 <div>
-                  <h4 className="font-semibold text-lg text-white">Full Stack Developer</h4>
-                  <p className="text-sm text-gray-400">Previous Company • 2020 - 2022</p>
+                  <h4 className="font-semibold text-lg text-white"></h4>
+                  <p className="text-sm text-gray-400"></p>
                   <p className="mt-2 text-gray-300 leading-relaxed">
-                    Built and maintained full-stack applications with Node.js and React. Collaborated with design team
-                    to create user-friendly interfaces.
+                    
                   </p>
                 </div>
               </div>
@@ -65,10 +62,10 @@ export function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
             <section className="space-y-4">
               <h3 className="text-xl font-semibold border-b border-zinc-600 pb-2 text-white">Education</h3>
               <div>
-                <h4 className="font-semibold text-lg text-white">Bachelor of Computer Science</h4>
-                <p className="text-sm text-gray-400">University Name • 2016 - 2020</p>
+                <h4 className="font-semibold text-lg text-white">Don't Graduated</h4>
+                <p className="text-sm text-gray-400"></p>
                 <p className="mt-2 text-gray-300 leading-relaxed">
-                  Graduated with honors. Focused on software engineering and web development.
+                  
                 </p>
               </div>
             </section>
@@ -77,7 +74,7 @@ export function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
             <section className="space-y-4">
               <h3 className="text-xl font-semibold border-b border-zinc-600 pb-2 text-white">Skills</h3>
               <div className="flex flex-wrap gap-2">
-                {["React", "Next.js", "TypeScript", "Node.js", "Tailwind CSS", "Git", "PostgreSQL", "REST APIs"].map(
+                {["C++", "Python", "Competitive Programing"].map(
                   (skill) => (
                     <span
                       key={skill}
