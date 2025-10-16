@@ -39,7 +39,7 @@ export default function Home() {
               asChild
               className="text-white hover:bg-white hover:text-black hover:scale-125 hover:shadow-[0_0_20px_rgba(255,255,255,0.8)] transition-all duration-300"
             >
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <a href="https://github.com/baris386/portfolio" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                 <Github className="h-5 w-5" />
               </a>
             </Button>
@@ -49,7 +49,7 @@ export default function Home() {
               asChild
               className="text-white hover:bg-white hover:text-black hover:scale-125 hover:shadow-[0_0_20px_rgba(255,255,255,0.8)] transition-all duration-300"
             >
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+              <a href="https:https://www.linkedin.com/in/barış-abbaszadə-498054385/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                 <Linkedin className="h-5 w-5" />
               </a>
             </Button>
@@ -59,7 +59,7 @@ export default function Home() {
               asChild
               className="text-white hover:bg-white hover:text-black hover:scale-125 hover:shadow-[0_0_20px_rgba(255,255,255,0.8)] transition-all duration-300"
             >
-              <a href="mailto:hello@example.com" aria-label="Email">
+              <a href="mailto:abbaszadb26@gmail.com" aria-label="Email">
                 <Mail className="h-5 w-5" />
               </a>
             </Button>
