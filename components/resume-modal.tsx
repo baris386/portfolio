@@ -43,7 +43,7 @@ export function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
               <div className="space-y-4">
                 <div>
                   <h4 className="font-semibold text-lg text-white">Competitive Programmer</h4>
-                  <p className="text-sm text-gray-400">2023 • 2024 and 2024 • 2025 Finalist</p>
+                  <p className="text-sm text-gray-400">2023 • 2024 and 2024 • 2025 RFO Finalist</p>
                   <p className="mt-2 text-gray-300 leading-relaxed">
                     
                   </p>
