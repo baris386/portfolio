@@ -8,7 +8,8 @@ export function TypingText() {
 
   const phases = [
     "Hi",
-    "I'm Abbaszadə Barış"
+    "I'm Abbaszadə Barış",
+    "A Junior Developer
   ]
 
   useEffect(() => {
